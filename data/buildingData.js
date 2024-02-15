@@ -85,7 +85,7 @@ Game.buildingData = (function () {
         desc: 'In a fusion reaction, Energy is released when two light atomic nuclei are fused together to form one heavier atom. This is the same reaction that occurs in stars and produces a lot of power.',
         resource: 'energy',
         resourcePerSecond: {
-            'energy': 273,
+            'energy': 273000000,
             'hydrogen': -10,
             'helium': -10
         },
@@ -120,7 +120,7 @@ Game.buildingData = (function () {
         resourcePerSecond: {
             'energy': -8500,
             'helium': -80,
-            'plasma': 10
+            'plasma': 100000
         },
         cost: {
             'lunarite': 810000,
@@ -197,7 +197,7 @@ Game.buildingData = (function () {
         resource: 'uranium',
         resourcePerSecond: {
             'energy': -436,
-            'uranium': 235
+            'uranium': 20000
         },
         cost: {
             'lunarite': 93100,
@@ -319,7 +319,7 @@ Game.buildingData = (function () {
         resource: 'oil',
         resourcePerSecond: {
             'energy': -44,
-            'oil': 246
+            'oil': 100000000
         },
         cost: {
             'lunarite': 19400,
@@ -364,7 +364,7 @@ Game.buildingData = (function () {
         resource: 'metal',
         resourcePerSecond: {
             'energy': -9,
-            'metal': 108
+            'metal': 100000000
         },
         cost: {
             'lunarite': 2800,
@@ -379,7 +379,7 @@ Game.buildingData = (function () {
         resource: 'metal',
         resourcePerSecond: {
             'energy': -24,
-            'metal': 427
+            'metal': 100000000
         },
         cost: {
             'lunarite': 29000,
@@ -439,7 +439,7 @@ Game.buildingData = (function () {
         resource: 'gem',
         resourcePerSecond: {
             'energy': -40,
-            'gem': 358
+            'gem': 100000000
         },
         cost: {
             'lunarite': 21000,
@@ -562,7 +562,7 @@ Game.buildingData = (function () {
         resource: 'wood',
         resourcePerSecond: {
             'energy': -43,
-            'wood': 297
+            'wood': 100000000
         },
         cost: {
             'lunarite': 16000,
@@ -621,7 +621,7 @@ Game.buildingData = (function () {
         resource: 'silicon',
         resourcePerSecond: {
             'energy': -138,
-            'silicon': 157
+            'silicon': 100000000
         },
         cost: {
             'lunarite': 20000,
@@ -683,7 +683,7 @@ Game.buildingData = (function () {
         resource: 'lunarite',
         resourcePerSecond: {
             'energy': -182,
-            'lunarite': 207
+            'lunarite': 100000000
         },
         cost: {
             'titanium': 45000,
@@ -741,7 +741,7 @@ Game.buildingData = (function () {
         resource: 'methane',
         resourcePerSecond: {
             'energy': -132,
-            'methane': 149
+            'methane': 100000000
         },
         cost: {
             'lunarite': 52000,
@@ -799,7 +799,7 @@ Game.buildingData = (function () {
         resource: 'titanium',
         resourcePerSecond: {
             'energy': -123,
-            'titanium': 197
+            'titanium': 100000000
         },
         cost: {
             'lunarite': 63000,
@@ -858,7 +858,7 @@ Game.buildingData = (function () {
         resource: 'gold',
         resourcePerSecond: {
             'energy': -223,
-            'gold': 211
+            'gold': 100000000
         },
         cost: {
             'lunarite': 61000,
@@ -917,7 +917,7 @@ Game.buildingData = (function () {
         resource: 'silver',
         resourcePerSecond: {
             'energy': -170,
-            'silver': 208
+            'silver': 100000000
         },
         cost: {
             'lunarite': 85100,
@@ -980,7 +980,7 @@ Game.buildingData = (function () {
         resource: 'hydrogen',
         resourcePerSecond: {
             'energy': -613,
-            'hydrogen': 113
+            'hydrogen': 100000000
         },
         cost: {
             'lunarite': 172000,
@@ -1038,7 +1038,7 @@ Game.buildingData = (function () {
         resource: 'helium',
         resourcePerSecond: {
             'energy': -670,
-            'helium': 232
+            'helium': 100000000
         },
         cost: {
             'lunarite': 255000,
@@ -1097,7 +1097,7 @@ Game.buildingData = (function () {
         resource: 'ice',
         resourcePerSecond: {
             'energy': -1135,
-            'ice': 278
+            'ice': 100000000
         },
         cost: {
             'wood': 379000,
@@ -1127,7 +1127,7 @@ Game.buildingData = (function () {
         resource: 'meteorite',
         resourcePerSecond: {
             'plasma': -21,
-            'meteorite': 8
+            'meteorite': 10000000000
         },
         cost: {
             'lunarite': 940000,
@@ -1170,7 +1170,7 @@ Game.buildingData = (function () {
         desc: 'Build an even better version of the old laboratory to further your exploration of the realm of science. Each one produces 10 science per second.',
         resource: 'science',
         resourcePerSecond: {
-            'science': 10
+            'science': 10000000000000000000
         },
         cost: {
             'metal': 17000,
