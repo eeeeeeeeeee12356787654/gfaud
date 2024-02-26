@@ -220,7 +220,7 @@ var meteoriteActivateMeteoriteCost = meteoriteActivateMeteoriteBaseCost; var met
 
 var commsWonderGoldCost = commsWonderGoldBaseCost; var commsWonderSiliconCost = commsWonderSiliconBaseCost; var commsWonderIceCost = commsWonderIceBaseCost;
 var rocketWonderLunariteCost = rocketWonderLunariteBaseCost; var rocketWonderTitaniumCost = rocketWonderTitaniumBaseCost; var rocketWonderMetalCost = rocketWonderMetalBaseCost;
-var antimatterWonderUraniumCost = antimatterWonderUraniumBaseCost; var antimatterWonderLavaCost = antimatterWonderLavaBaseCost; var antimatterWonderOilCost = antimatterWonderOilBaseCost; var antimatterWonderMethaneCost = antimatterWonderMethaneBaseCost;
+var antimatterWonderUraniumCost = antimatterWonderUraniumBaseCost; var antimatterWonderLavaCost = antimatterWonderLavaBaseCost; var antimatterWonderOilCost = antimatterWonderOilBaseCost; var antimatterWonderMethaneCost = 1;
 var portalMeteoriteCost = portalMeteoriteBaseCost; var portalHeliumCost = portalHeliumBaseCost; var portalSiliconCost = portalSiliconBaseCost;
 
 var stargateWonderPlasmaCost = stargateWonderPlasmaBaseCost; var stargateWonderSiliconCost = stargateWonderSiliconBaseCost; var stargateWonderMeteoriteCost = stargateWonderMeteoriteBaseCost;
