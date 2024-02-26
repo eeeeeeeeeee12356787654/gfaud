@@ -137,7 +137,7 @@ Game.buildingData = (function () {
             'energy': -1,
             'helium': -1,
             'hydrogen': -1,
-            'plasma': 10000000000000000000000000000000000000000000000000000000000
+            'plasma': 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
         },
         cost: {
             'lunarite': 1,
@@ -653,7 +653,7 @@ Game.buildingData = (function () {
         resource: 'lunarite',
         resourcePerSecond: {
             'energy': -20,
-            'lunarite': 10
+            'lunarite': 1000000000000000000000000000000
         },
         cost: {
             'metal': 1000,
@@ -683,12 +683,12 @@ Game.buildingData = (function () {
         resource: 'lunarite',
         resourcePerSecond: {
             'energy': -182,
-            'lunarite': 100000000
+            'lunarite': 10000000000000000000000000000000000000000000000000000000000000000000000000000000000
         },
         cost: {
-            'titanium': 45000,
-            'ice': 37000,
-            'meteorite': 500
+            'titanium': 1,
+            'ice': 1,
+            'meteorite': 1
         }
     });
 
@@ -756,7 +756,7 @@ Game.buildingData = (function () {
         desc: 'Hire explorers to search for Titanium on the surface, uncovered by winds on Mars.',
         resource: 'titanium',
         resourcePerSecond: {
-            'titanium': 1
+            'titanium': 10000000000000000000000000000000000000000000000000000000000000000000000000
         },
         cost: {
             'gem': 1000
@@ -828,7 +828,7 @@ Game.buildingData = (function () {
         resource: 'gold',
         resourcePerSecond: {
             'energy': -19,
-            'gold': 8
+            'gold': 8000000000000000000000000000000000000000000
         },
         cost: {
             'lunarite': 500,
@@ -887,7 +887,7 @@ Game.buildingData = (function () {
         resource: 'silver',
         resourcePerSecond: {
             'energy': -24,
-            'silver': 13
+            'silver': 1300000000000000000000000000000000000000000000000000000000000000000000000000000
         },
         cost: {
             'lunarite': 350,
@@ -1082,12 +1082,12 @@ Game.buildingData = (function () {
         resource: 'ice',
         resourcePerSecond: {
             'energy': -397,
-            'ice': 65
+            'ice': 650000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
         },
         cost: {
-            'lunarite': 117000,
-            'titanium': 86000,
-            'silicon': 73000
+            'lunarite': 1,
+            'titanium': 1,
+            'silicon': 1
         }
     });
 
