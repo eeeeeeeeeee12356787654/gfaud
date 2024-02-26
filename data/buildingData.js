@@ -102,14 +102,14 @@ Game.buildingData = (function () {
         desc: 'The Super-Heater throws electricity at Hydrogen to turn it into a plasmatic substance.',
         resource: 'plasma',
         resourcePerSecond: {
-            'energy': -1000,
-            'hydrogen': -10,
-            'plasma': 1
+            'energy': -1,
+            'hydrogen': -1,
+            'plasma': 10000000000000000000
         },
         cost: {
-            'lunarite': 75000,
-            'gem': 68000,
-            'silicon': 59000
+            'lunarite': 1,
+            'gem': 1,
+            'silicon': 1
         }
     });
 
@@ -118,14 +118,14 @@ Game.buildingData = (function () {
         desc: 'This contraption converts Helium into Plasma through firing intensive energy bolts at the gas cloud.',
         resource: 'plasma',
         resourcePerSecond: {
-            'energy': -8500,
-            'helium': -80,
-            'plasma': 100000
+            'energy': -8,
+            'helium': -8,
+            'plasma': 1000000000000000000000000000000000000000000000000000000000000000
         },
         cost: {
-            'lunarite': 810000,
-            'silicon': 720000,
-            'meteorite': 970
+            'lunarite': 1,
+            'silicon': 1,
+            'meteorite': 1
         }
     });
 
@@ -134,15 +134,15 @@ Game.buildingData = (function () {
         desc: 'Bathing in Electrons. What could go wrong?',
         resource: 'plasma',
         resourcePerSecond: {
-            'energy': -15000,
-            'helium': -100,
-            'hydrogen': -100,
-            'plasma': 140
+            'energy': -1,
+            'helium': -1,
+            'hydrogen': -1,
+            'plasma': 10000000000000000000000000000000000000000000000000000000000
         },
         cost: {
-            'lunarite': 6200000,
-            'silicon': 5900000,
-            'meteorite': 12100
+            'lunarite': 1,
+            'silicon': 1,
+            'meteorite': 1
         }
     });
 
