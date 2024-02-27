@@ -4,7 +4,7 @@ Game.starData = (function(){
 
 	instance._201 = {
 		name: "Alpha Centauri",
-		distance: 1,
+		distance: .001,
 		planets: 1,
 		faction: "Hyacinite Congregation",
 		factionId: "hyacinite",
