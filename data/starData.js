@@ -4,7 +4,7 @@ Game.starData = (function(){
 
 	instance._201 = {
 		name: "Alpha Centauri",
-		distance: .001,
+		distance: 0.0001,
 		planets: 1,
 		faction: "Hyacinite Congregation",
 		factionId: "hyacinite",
@@ -19,7 +19,7 @@ Game.starData = (function(){
 
 	instance._301 = {
 		name: "Barnard's Star",
-		distance: 1.1,
+		distance: 1,
 		planets: 0,
 		faction: "Carnelian Resistance",
 		factionId: "carnelian",
@@ -34,7 +34,7 @@ Game.starData = (function(){
 
 	instance._401 = {
 		name: "CN Leonis",
-		distance: 7.8,
+		distance: 1,
 		planets: 1,
 		faction: "Prasnian Empire",
 		factionId: "prasnian",
@@ -49,7 +49,7 @@ Game.starData = (function(){
 
 	instance._501 = {
 		name: "Lalande 21185",
-		distance: 8.31,
+		distance: 1,
 		planets: 1,
 		faction: "Kitrinos Corporation",
 		factionId: "kitrinos",
@@ -64,7 +64,7 @@ Game.starData = (function(){
 
 	instance._701 = {
 		name: "Gliese 65",
-		distance: 8.55,
+		distance: 1,
 		planets: 1,
 		faction: "Moviton Syndicate",
 		factionId: "moviton",
@@ -79,7 +79,7 @@ Game.starData = (function(){
 
 	instance._601 = {
 		name: "Sirius",
-		distance: 8.6,
+		distance: 1,
 		planets: 5,
 		factionId: "moviton",
 		faction: "Moviton Syndicate",
@@ -94,7 +94,7 @@ Game.starData = (function(){
 
 	instance._130601 = {
 		name: "V1216 Sagittarii",
-		distance: 9.69,
+		distance: 1,
 		planets: 2,
 		factionId: "kitrinos",
 		faction: "Kitrinos Corporation",
@@ -109,7 +109,7 @@ Game.starData = (function(){
 
 	instance._163901 = {
 		name: "Ross 248",
-		distance: 10.33,
+		distance: 1,
 		planets: 2,
 		factionId: "carnelian",
 		faction: "Carnelian Resistance",
@@ -124,7 +124,7 @@ Game.starData = (function(){
 
 	instance._25101 = {
 		name: "Epsilon Eridani",
-		distance: 10.5,
+		distance: 1,
 		planets: 5,
 		factionId: "prasnian",
 		faction: "Prasnian Empire",
@@ -139,7 +139,7 @@ Game.starData = (function(){
 
 	instance._158101 = {
 		name: "Lacaille 9352",
-		distance: 10.73,
+		distance: 1,
 		planets: 5,
 		factionId: "kitrinos",
 		faction: "Kitrinos Corporation",
@@ -1099,7 +1099,7 @@ Game.starData = (function(){
 
 	instance._105801 = {
 		name: "HN Librae",
-		distance: 20.45,
+		distance: 0.45,
 		planets: 3,
 		factionId: "kitrinos",
 		faction: "Kitrinos Corporation",
@@ -1114,7 +1114,7 @@ Game.starData = (function(){
 
 	instance._204702 = {
 		name: "Gliese 3877",
-		distance: 20.62,
+		distance: 0.62,
 		planets: 1,
 		factionId: "carnelian",
 		faction: "Carnelian Resistance",
@@ -1129,7 +1129,7 @@ Game.starData = (function(){
 
 	instance._50401 = {
 		name: "QY Aurigae",
-		distance: 20.74,
+		distance: 1,
 		planets: 1,
 		factionId: "moviton",
 		faction: "Moviton Syndicate",
@@ -1144,7 +1144,7 @@ Game.starData = (function(){
 
 	instance._116901 = {
 		name: "Wolf 629",
-		distance: 21.18,
+		distance: 1,
 		planets: 1,
 		factionId: "carnelian",
 		faction: "Carnelian Resistance",
@@ -1159,7 +1159,7 @@ Game.starData = (function(){
 
 	instance._159101 = {
 		name: "Gliese 1128",
-		distance: 21.28,
+		distance: 1,
 		planets: 4,
 		factionId: "moviton",
 		faction: "Moviton Syndicate",
@@ -1174,7 +1174,7 @@ Game.starData = (function(){
 
 	instance._113301 = {
 		name: "Gliese 625",
-		distance: 21.47,
+		distance: 1,
 		planets: 2,
 		factionId: "prasnian",
 		faction: "Prasnian Empire",
