@@ -19,7 +19,7 @@ Game.starData = (function(){
 
 	instance._301 = {
 		name: "Barnard's Star",
-		distance: 1,
+		distance: 0.00001,
 		planets: 0,
 		faction: "Carnelian Resistance",
 		factionId: "carnelian",
