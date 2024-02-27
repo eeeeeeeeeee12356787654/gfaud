@@ -259,7 +259,7 @@ Game.antimatterData = (function(){
 		unlocked: true,
 		displayNeedsUpdate: true,
 		resourcePerSecond: {
-            'antimatter': 100,
+            'antimatter': 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
             'plasma': -1,
             'ice': -1
         },
