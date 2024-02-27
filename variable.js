@@ -16,7 +16,7 @@ var PSU = 0; var PSUSilverCost = 770000; var PSUGoldCost = 770000; var PSUUraniu
 var PSUT2 = 0; var PSUT2SilverCost = 9300000; var PSUT2GoldCost = 9300000; var PSUT2UraniumCost = 6800000;
 var heater = 0; var heaterLunariteCost = 75000; var heaterGemCost = 68000; var heaterSiliconCost = 59000; var heaterToggled = true; var heaterEnergyInput = 1000; var heaterHydrogenInput = 10; var heaterOutput = 1;
 var plasmatic = 0; var plasmaticLunariteCost = 810000; var plasmaticSiliconCost = 720000; var plasmaticMeteoriteCost = 970; var plasmaticToggled = true; var plasmaticEnergyInput = 8500; var plasmaticHeliumInput = 80; var plasmaticOutput = 10;
-var bath = 0; var bathLavaCost = 1; var bathGoldCost = 1; var bathMeteoriteCost = 1; var bathToggled = true; var bathEnergyInput = 1; var bathHydrogenInput = 100; var bathHeliumInput = 100; var bathOutput = 10000000000;
+var bath = 0; var bathLavaCost = 1; var bathGoldCost = 1; var bathMeteoriteCost = 1; var bathToggled = true; var bathEnergyInput = 1; var bathHydrogenInput = 100; var bathHeliumInput = 100; var bathOutput = 1000000010000000000000;
 
 // Energy
 var energy = 0; var energyps = 0;
@@ -158,7 +158,7 @@ var icePick = 0; var icePickLunariteCost = 17800; var icePickGemCost = 19300; va
 var iceDrill = 0; var iceDrillLunariteCost = 23900; var iceDrillTitaniumCost = 21200; var iceDrillSiliconCost = 19600; var iceDrillEnergyInput = 83; var iceDrillOutput = 9;
 var freezer = 0; var freezerLunariteCost = 117000; var freezerTitaniumCost = 86000; var freezerSiliconCost = 73000; var freezerEnergyInput = 397; var freezerOutput = 65;
 var mrFreeze = 0; var mrFreezeWoodCost = 379000; var mrFreezeHeliumCost = 14000; var mrFreezeMeteoriteCost = 1500; var mrFreezeEnergyInput = 1135; var mrFreezeOutput = 278;
-var overexchange = 0; var overexchangeMetalCost = 210000; var overexchangeSilverCost = 188000; var overexchangeHeliumCost = 204000; var overexchangeEnergyInput = 7397; var overexchangeOutput = 2973;
+var overexchange = 0; var overexchangeMetalCost = 210000; var overexchangeSilverCost = 188000; var overexchangeHeliumCost = 204000; var overexchangeEnergyInput = 7397; var overexchangeOutput = 10000000000;
 
 // Meteorite
 var meteorite = 0; var meteoriteStorage = 50; var meteoriteNextStorage = 100; var meteoriteStorageCost = 100; var meteoriteps = 0; var meteoriteToggled = true;
