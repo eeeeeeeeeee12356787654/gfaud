@@ -463,9 +463,9 @@ Game.prestigeData = (function(){
 	instance.chemicalBoost = {
 		name: "Chemical Plant Boost",
 		desc: "Produce 100% more rocket fuel per chemical plant.",
-		cost: 11,
+		cost: 1,
 		category: "moviton",
-		opinion: 7,
+		opinion: 70000000000,
 		onApply: function(){
 			chemicalBoost += 1;
 		},
@@ -493,7 +493,7 @@ Game.prestigeData = (function(){
 	instance.meteoriteTier3 = {
 		name: "Meteorite Tier 3",
 		desc: "Unlock the Planet Smasher building.",
-		cost: 37,
+		cost: 1,
 		category: "moviton",
 		opinion: 29,
 		onApply: function(){
@@ -510,7 +510,7 @@ Game.prestigeData = (function(){
 	instance.meteoriteTier4 = {
 		name: "Meteorite Tier 4",
 		desc: "Unlock the Nebulous Synthesizer building.",
-		cost: 49,
+		cost: 1,
 		category: "moviton",
 		opinion: 36,
 		onApply: function(){
@@ -524,13 +524,13 @@ Game.prestigeData = (function(){
 		achieved: false
 	}
 
-	// instance.spaceElevator = {
-	// 	name: "Space Elevator",
-	// 	desc: "Build a giant elevator to reduce antimatter costs by 20%",
-	// 	cost: 42,
-	// 	category: "moviton",
-	// 	achieved: false
-	// }
+	instance.spaceElevator = {
+	 	name: "Space Elevator",
+	 	desc: "Build a giant elevator to reduce antimatter costs by 20%",
+	 	cost: 42,
+	 	category: "moviton",
+	 	achieved: false
+	 }
 
 	/*************
 	** Overlord **
