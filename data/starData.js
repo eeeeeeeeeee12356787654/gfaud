@@ -4,7 +4,7 @@ Game.starData = (function(){
 
 	instance._201 = {
 		name: "Alpha Centauri",
-		distance: 4.3,
+		distance: 1,
 		planets: 1,
 		faction: "Hyacinite Congregation",
 		factionId: "hyacinite",
@@ -19,7 +19,7 @@ Game.starData = (function(){
 
 	instance._301 = {
 		name: "Barnard's Star",
-		distance: 5.94,
+		distance: 1.1,
 		planets: 0,
 		faction: "Carnelian Resistance",
 		factionId: "carnelian",
