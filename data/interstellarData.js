@@ -24,7 +24,7 @@ Game.interstellarData = (function(){
 		name: 'Communications',
 		desc: 'This is where you learn about other systems to travel to. <br><b>NB: The first star, Alpha Centauri is 4.3 LY away. 1 IRS will not get you there.</b>',
 		category: 'general',
-		unlocked: false
+		unlocked: true
 	};
 
 	instance.rocket = {
@@ -259,9 +259,9 @@ Game.antimatterData = (function(){
 		unlocked: true,
 		displayNeedsUpdate: true,
 		resourcePerSecond: {
-            'antimatter': 100000000000000000000000000,
-            'plasma': 1,
-            'ice': 1
+            'antimatter': 100,
+            'plasma': -1,
+            'ice': -1
         },
 		cost: {
 			'silver': 1,
