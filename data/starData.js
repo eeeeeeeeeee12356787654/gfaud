@@ -19,7 +19,7 @@ Game.starData = (function(){
 
 	instance._301 = {
 		name: "Barnard's Star",
-		distance: 0.00001,
+		distance: 0.1,
 		planets: 0,
 		faction: "Carnelian Resistance",
 		factionId: "carnelian",
@@ -34,7 +34,7 @@ Game.starData = (function(){
 
 	instance._401 = {
 		name: "CN Leonis",
-		distance: 1,
+		distance: 0.1,
 		planets: 1,
 		faction: "Prasnian Empire",
 		factionId: "prasnian",
@@ -49,7 +49,7 @@ Game.starData = (function(){
 
 	instance._501 = {
 		name: "Lalande 21185",
-		distance: 1,
+		distance: 0.1,
 		planets: 1,
 		faction: "Kitrinos Corporation",
 		factionId: "kitrinos",
@@ -64,7 +64,7 @@ Game.starData = (function(){
 
 	instance._701 = {
 		name: "Gliese 65",
-		distance: 1,
+		distance: 0.1,
 		planets: 1,
 		faction: "Moviton Syndicate",
 		factionId: "moviton",
@@ -79,7 +79,7 @@ Game.starData = (function(){
 
 	instance._601 = {
 		name: "Sirius",
-		distance: 1,
+		distance: 0.1,
 		planets: 5,
 		factionId: "moviton",
 		faction: "Moviton Syndicate",
